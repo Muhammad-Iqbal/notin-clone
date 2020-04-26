@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notin clone</string>
+
+    <string name="inputText">Your text goes here</string>
+</resources>
